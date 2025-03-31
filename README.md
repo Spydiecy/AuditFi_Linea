@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/0ea2adad-3a31-4c22-a93c-f2cfe42f71d8)
 
+[Pitchdeck](https://drive.google.com/file/d/1OQsWpYXd83ZW2Ewl-8P6WXm642U-5RK-/view)
+
 ## 🌟 Features
 
 - **Advanced AI-Powered Analysis**  
